@@ -1,0 +1,8 @@
+C:\Users\Oliver R\Documents\Visual Studio C#\Russian Roulette\Russian Roulette\Russian Roulette\bin\Debug\Russian Roulette.exe.config
+C:\Users\Oliver R\Documents\Visual Studio C#\Russian Roulette\Russian Roulette\Russian Roulette\bin\Debug\Russian Roulette.exe
+C:\Users\Oliver R\Documents\Visual Studio C#\Russian Roulette\Russian Roulette\Russian Roulette\bin\Debug\Russian Roulette.pdb
+C:\Users\Oliver R\Documents\Visual Studio C#\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.csproj.AssemblyReference.cache
+C:\Users\Oliver R\Documents\Visual Studio C#\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.csproj.SuggestedBindingRedirects.cache
+C:\Users\Oliver R\Documents\Visual Studio C#\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.csproj.CoreCompileInputs.cache
+C:\Users\Oliver R\Documents\Visual Studio C#\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.exe
+C:\Users\Oliver R\Documents\Visual Studio C#\Russian Roulette\Russian Roulette\Russian Roulette\obj\Debug\Russian Roulette.pdb
